@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/veerendranath0312/tip-calculator)
+- Solution URL: [Github](https://github.com/lChrisjm/tip-calculator)
 - Live Site URL: [splitter](https://comforting-dieffenbachia-be074f.netlify.app/)
 
 ## My process
