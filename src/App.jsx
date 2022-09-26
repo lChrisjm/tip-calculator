@@ -8,7 +8,7 @@ function App() {
   const [bill, setBill] = useState(null)
   const [tipPercent, setTipPercent] = useState(0)
   const [tipPercentCustom, setTipPercentCustom] = useState(false)
-  const [people, setPeople] = useState(0)
+  const [people, setPeople] = useState(null)
 
   const [total, setTotal] = useState(null)
   const [totalPerEach, setTotalPerEach] = useState(0)
