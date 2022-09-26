@@ -15,7 +15,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/veerendranath0312/tip-calculator)
-- Live Site URL: [splitter]()
+- Live Site URL: [splitter](https://comforting-dieffenbachia-be074f.netlify.app/)
 
 ## My process
 
@@ -28,4 +28,4 @@ Users should be able to:
 ### Useful resources
 
 - [Tailwind Docs](https://tailwindcss.com/docs) - This helped me for correct implementation of Tailwind classes.
-- [Ract Docs](https://es.reactjs.org/docs/hooks-state.html) - For inquiries
+- [React Docs](https://es.reactjs.org/docs/hooks-state.html) - For inquiries
